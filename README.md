@@ -1,10 +1,10 @@
-# miFarm Ecommerce MERN
+# Ecommerce-MERN
 
-mifarm is a web-based ecommerce platform that utilizes the MERN stack. It is dedicated to the sale of fresh vegetables and agricultural products.
+This is a web-based ecommerce platform that utilizes the MERN stack. It is dedicated to the sale of fresh vegetables and agricultural products.
 
-Technologies: TypeScript, Node.js, Express, MongoDB, RESTful API, ReactJS, React-Router, Tailwind, Redux, Redux Thunk
+Main Stack: MERN
 
-## Features 🔥
+## Features
 
 - Login
 - Signup
@@ -21,9 +21,9 @@ Technologies: TypeScript, Node.js, Express, MongoDB, RESTful API, ReactJS, React
 To get started, open your command prompt and run the following commands:
 
 ```sh
-$ git clone https://github.com/michino25/mi-farm-mern
+$ git clone https://github.com/AidarKarimov315/Ecommerce-MERN.git
 
-$ cd mi-farm-mern/
+$ cd Ecommerce-MERN/
 
 # Backend
 $ cd api
