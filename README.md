@@ -33,3 +33,6 @@ $ yarn install
 $ cd client
 $ yarn install
 ```
+
+## Live URL
+https://mi-farm.vercel.app/
